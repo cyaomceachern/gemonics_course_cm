@@ -1,3 +1,3 @@
-# gemonics_course_cm
+# genomics_course_cm
 
 Hello world!
